@@ -2,7 +2,7 @@
 Yiqiu Chen (25756127)
 
 # Overview
-The player will embark on a three-day adventure with the poisonous mushroom named Toxie Mushi. Make different choices to help the little mushroom embark on a unique "lives" of their own.
+The player will embark on a three-day adventure with the poisonous mushroom named Toxie Mushi. Make different choices to help the little mushroom embark on a unique "lives".
 
 # Main Features
 The game features exploration of three locations, option clicking, and multiple characters. By choosing different options, various storylines and achievements can be triggered. Different endings can be unlocked through the determination of numerical values and specific plot choices. There are also hidden locations and money transactions waiting to be discovered, along with other bonus features.
